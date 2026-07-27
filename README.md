@@ -1,16 +1,19 @@
-## Hi there 👋
+# Matteo
 
-<!--
-**matteorici/matteorici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy turning ideas into practical software, with a particular interest in backend engineering, systems programming, and automation. My projects range from lightweight developer tools to applications related to UAV technologies, telemetry processing, and data analysis.
 
-Here are some ideas to get you started:
+Most of my work is built with **Go** for efficient concurrent services and performance-oriented applications, while **Python** is my primary choice for scripting, automation, data processing, and rapid prototyping. I also enjoy experimenting with new technologies and building small utilities that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Interests
+
+- 🚁 UAV software and telemetry systems
+- ⚙️ Backend development and automation
+- 📡 Data processing and monitoring tools
+- 🧩 Performance-focused software design
+- 🔬 Building practical developer utilities
+
+## Tech Stack
+
+- **Languages:** Go, Python
+- **Focus:** Backend Development, Automation, CLI Tools, UAV Software, Data Processing
+- **Learning:** Distributed systems, networking, scalable architectures
